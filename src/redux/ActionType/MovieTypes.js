@@ -1,0 +1,4 @@
+export const POST_MOVIE="POST_MOVIE"
+export const DELETE_MOVIE="DELETE_MOVIE"
+
+export const EDIT_MOVIE="EDIT_MOVIE"
